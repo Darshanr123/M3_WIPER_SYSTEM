@@ -1,1 +1,20 @@
-
+ STRENGTH:
+ 
+ ==>Automatic control of wiper system.
+ The wiper will be turned off automatically once led toggles back to initial state
+ ==>The cost is low and can be implemented easily
+ 
+ WEAKNESS:
+ 
+ ==>May lead to Faults in LED 
+ ==>The processing time can be slow sometimes
+ 
+ OPPURTUNITIES:
+ 
+ ==>It can be introduced to market with reasonable price
+ ==>Demand for effecient wiper systems will increase
+ 
+ THREAT:
+ 
+ ==>If wiper system fails it will pose risk for drivers which may lead to accidents
+ 
